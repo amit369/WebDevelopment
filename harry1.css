@@ -1,0 +1,7 @@
+p {
+    color : blue;
+}
+p.intro {
+    background-color: red;
+    border-radius: 3px;
+}
